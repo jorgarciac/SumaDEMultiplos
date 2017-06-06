@@ -4,3 +4,9 @@ C:\Users\k_ski\Desktop\responsive\SumaDeMultiplosV1\SumaDeMultiplosV1\bin\Debug\
 C:\Users\k_ski\Desktop\responsive\SumaDeMultiplosV1\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.csprojResolveAssemblyReference.cache
 C:\Users\k_ski\Desktop\responsive\SumaDeMultiplosV1\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.exe
 C:\Users\k_ski\Desktop\responsive\SumaDeMultiplosV1\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.pdb
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\bin\Debug\SumaDeMultiplosV1.exe.config
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.exe
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.pdb
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\bin\Debug\SumaDeMultiplosV1.exe
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\bin\Debug\SumaDeMultiplosV1.pdb
+C:\ProyectosQuinto\SumaDEMultiplos\SumaDeMultiplosV1\obj\Debug\SumaDeMultiplosV1.csprojResolveAssemblyReference.cache

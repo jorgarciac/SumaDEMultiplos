@@ -8,14 +8,18 @@ namespace SumaDeMultiplosV1
 {
     class sumarmultiplos
     {
-        public int sumMultiplos()
+        public int sumMultiplos(int numMaximo, string numMultiplos)
         {
+            string[] multiplos = numMultiplos.Split(',');
             int suma = 0;
-            for (int i=1;i<1000;i++)
+            for (int i = 1; i < numMaximo; i++)
             {
-                if (i%3==0 || i%5==0)
+                for (int j = 0; j < multiplos.Length; j++)
                 {
-                    suma =suma + i;
+                    if (i % Convert.ToInt32(multiplos[j]) == 0)
+                    {
+                        suma = suma + i;
+                    }
                 }
             }
             return suma;

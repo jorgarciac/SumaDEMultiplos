@@ -11,7 +11,7 @@ namespace SumaDeMultiplosV1
         static void Main(string[] args)
         {
             sumarmultiplos smulti = new sumarmultiplos();            
-            Console.Write("La suma de los multiplos: "+ smulti.sumMultiplos());
+            Console.Write("La suma de los multiplos: "+ smulti.sumMultiplos(1000,"3,5"));
             Console.ReadKey();
         }
     }
